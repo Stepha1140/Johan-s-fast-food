@@ -1,0 +1,9 @@
+{
+  "name": "Johan's Fast Food Pedidos",
+  "short_name": "Johan's",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#211d1e",
+  "theme_color": "#f6df00",
+  "icons": []
+}
